@@ -19,7 +19,7 @@ Building practical web applications while learning modern technologies and impro
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering student at Bule Hora University.
-- 🌱 Currently learning **🌱 Currently learning **3rd Year Software Engineering Department** and growing toward full-stack development.** and growing toward full-stack development.
+- 🌱 Currently learning **3rd Year Software Engineering Department** and growing toward full-stack development.** and growing toward full-stack development.
 - 💡 Interested in building useful, user-friendly software and solving real problems.
 - 🧩 Learning through hands-on projects, experimentation, and consistent practice.
 - 🎯 My goal is to become a skilled full-stack developer and contribute to meaningful projects.
