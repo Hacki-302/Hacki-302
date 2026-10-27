@@ -19,7 +19,7 @@ Building practical web applications while learning modern technologies and impro
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering student at Bule Hora University.
-- 🌱 Currently learning **3rd Year Software Engineering Department** and growing toward full-stack development.** and growing toward full-stack development.
+- 🌱 Currently learning **🌱 Currently learning **3rd Year Software Engineering Department** and growing toward full-stack development.** and growing toward full-stack development.
 - 💡 Interested in building useful, user-friendly software and solving real problems.
 - 🧩 Learning through hands-on projects, experimentation, and consistent practice.
 - 🎯 My goal is to become a skilled full-stack developer and contribute to meaningful projects.
@@ -76,10 +76,14 @@ Building practical web applications while learning modern technologies and impro
 ### 🔎 [GitHub User Search](https://github.com/Hacki-302/github-user-search)
 A React application for searching GitHub users and exploring public profile information.
 
+**Live site:** [hacki-302.github.io/github-user-search-pro/](https://hacki-302.github.io/github-user-search-pro/)
+
 **Tech:** React · Vite · JavaScript · REST API · JSON
 
 ### 🎯 [Number Guessing Game Pro](https://github.com/Hacki-302/number-guessing-game-pro)
 An interactive number-guessing game with a polished interface and limited attempts.
+
+**Live site:** [hacki-302.github.io/number-guessing-game-pro/](https://hacki-302.github.io/number-guessing-game-pro/)
 
 **Tech:** React · Vite · Tailwind CSS
 
