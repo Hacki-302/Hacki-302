@@ -7,7 +7,7 @@
 Building practical web applications while learning modern technologies and improving every day.
 
 <p>
-  <a href="https://hacki-302.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://hacki-302.github.io/my-portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/Hacki-302"><img src="https://img.shields.io/badge/GitHub-Hacki--302-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://t.me/MaadiiB9"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
@@ -92,10 +92,10 @@ A personal portfolio Telegram bot that helps people discover information and use
 
 **Tech:** Python · Telegram Bot API
 
-### 🌐 [My Portfolio Website](https://github.com/Hacki-302/MyPortfolio)
+### 🌐 [My Portfolio Website](https://hacki-302.github.io/my-portfolio)
 My portfolio website for presenting my background, skills, and projects.
 
-**Live site:** [hacki-302.github.io/MyPortfolio](https://hacki-302.github.io/MyPortfolio/)
+**Live site:** [https://hacki-302.github.io/MyPortfolio/](https://hacki-302.github.io/my-portfolio)
 
 ## 📊 GitHub Stats
 
@@ -122,7 +122,7 @@ My portfolio website for presenting my background, skills, and projects.
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://hacki-302.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://hacki-302.github.io/my-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/Hacki-302"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://t.me/MaadiiB9"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:borifhacki302@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
